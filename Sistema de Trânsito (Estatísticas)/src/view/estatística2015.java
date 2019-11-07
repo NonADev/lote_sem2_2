@@ -56,7 +56,7 @@ public class estatística2015 {
 				if (true == true) {
 					model.Estatistica[] temp = c.getAll();
 					for (int i = 0; i < temp.length; i++) {
-						pane.showMessageDialog(null, String.format("%s %s %s %s", temp[i].Cod_Cidade,
+						pane.showMessageDialog(null, String.format("CEP: %s\nCidade: %s\nAcidentes: %s \nModelo do veiculo: %s", temp[i].Cod_Cidade,
 								temp[i].Nome_Cidade, temp[i].QTD_Acidentes, temp[i].Tipo_Veiculo));
 					}
 				}

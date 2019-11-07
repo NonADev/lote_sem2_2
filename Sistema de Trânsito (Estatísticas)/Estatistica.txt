@@ -1,0 +1,15 @@
+05;Ribeirinha;42;1
+54;Biramoniacaba;40;2
+11;Santo Andre;14;3
+14;Mato groso;14;4
+15;Guarabiocoba;14;5
+13;Botocodancia;42;6
+34;Rio de janeiro;40;7
+16;Franca;14;6
+17;Alagoas;14;7
+1;Nova cidadela;14;8
+135;Camaroes;42;9
+56;Reverbeterio;40;10
+19;Lisboa;14;11
+20;Macapá;14;12
+21;Sipiritus Santus;14;13
