@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 import model.Estatistica;
 
-public class estatística2015 {
+public class estatistica2015 {
 	public static void main(String[] args) throws IOException {
 		JOptionPane pane = new JOptionPane();
 		control.Estatistica c = new control.Estatistica();
@@ -16,10 +16,10 @@ public class estatística2015 {
 			System.out.println("-------------------------------------------------------------------------");
 			System.out.println("|	MENU ESTATISTICA                       			 	|");
 			System.out.println("|	1	-	Cadastro Estatistica				|");
-			System.out.println("|	2	-	Consulta por tipo de veículo			|");
+			System.out.println("|	2	-	Consulta por tipo de veï¿½culo			|");
 			System.out.println("|	3	-	Consulta por quantidade de acidentes		|");
 			System.out.println("|	4	-	Consulta todos as cidades                       |");
-			System.out.println("|	5	-	Consulta maior menor média de acidentes		|");
+			System.out.println("|	5	-	Consulta maior menor mï¿½dia de acidentes		|");
 			System.out.println("|	9	-	Finaliza					|");
 			System.out.print("-------------------------------------------------------------------------\n");
 			in = Integer.parseInt(pane.showInputDialog("Opcao"));
